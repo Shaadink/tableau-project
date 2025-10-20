@@ -102,6 +102,14 @@ Regions such as **Tabuk and NEOM** are top performers, while **Makkah and Medina
 - **Low Risks:** Safety, Vendor, Scope  
 ➡️ *Immediate focus should be on mitigating high-likelihood, high-impact risks.*
 
+
+## Image Preview
+
+
+- **cover page**
+  
+-![Dashboard View]()
+
 ---
 
 ## 🧠 Recommendations
