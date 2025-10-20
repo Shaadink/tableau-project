@@ -108,7 +108,7 @@ Regions such as **Tabuk and NEOM** are top performers, while **Makkah and Medina
 
 - **cover page**
   
--![Dashboard View]()
+-![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/cover%20photo.png)
 
 ---
 
