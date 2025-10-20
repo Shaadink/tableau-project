@@ -2,14 +2,14 @@
 [!Dashboard video](https://github.com/Shaadink/tableau-project/blob/main/saudi%20vision%202030%20dashboard.mp4)
 
 
-## 📊 Project Overview
+##  Project Overview
 The **Saudi Vision 2030 Project Analysis Dashboard** is an interactive Tableau solution designed to monitor, evaluate, and visualize the progress of key initiatives under Saudi Arabia’s **Vision 2030** framework.
 
 This dashboard empowers policymakers and analysts with **real-time, data-driven insights** into project performance, financial health, and risk exposure — enabling smarter governance and strategic alignment with national objectives.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Build a **centralized, interactive dashboard** to consolidate project and financial data.
 - Provide **real-time visibility** into project status, spending trends, and risk factors.
 - Enable **data-driven decision-making** for government stakeholders.
@@ -17,7 +17,7 @@ This dashboard empowers policymakers and analysts with **real-time, data-driven 
 
 ---
 
-## 🧩 Problem Statement
+##  Problem Statement
 Managing hundreds of large-scale projects across diverse sectors poses challenges:
 - Manual data consolidation causes **delays and inconsistencies**.
 - Lack of unified reporting limits **governance visibility**.
@@ -27,7 +27,7 @@ This Tableau project addresses these challenges by integrating all data sources 
 
 ---
 
-## 🗂️ Dataset Description
+##  Dataset Description
 The dataset consists of **five interconnected tables** representing project and performance data:
 
 | Table Name | Description |
@@ -40,7 +40,7 @@ The dataset consists of **five interconnected tables** representing project and 
 
 ---
 
-## 🧼 Data Preparation (Power Query)
+##  Data Preparation (Power Query)
 Before Tableau visualization, a **comprehensive ETL process** was performed using **Power Query**:
 1. Removed duplicate and inconsistent records.
 2. Standardized column names and data types.
@@ -54,23 +54,23 @@ Before Tableau visualization, a **comprehensive ETL process** was performed usin
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
-### 🔹 Project Portfolio Summary
+###  Project Portfolio Summary
 - **66.7% of projects** are on schedule; one-third need closer monitoring.  
 - **Average progress:** 45.7% — most projects are midway.  
 - **Budget utilization:** 38.1% — sufficient reserves, but delayed projects risk future budget pressure.
 
-### 🔹 Sector-Wise Project Health
+###  Sector-Wise Project Health
 - **Transport:** Balanced — 2 on track, 2 at risk.  
 - **ICT:** 3 projects — all at risk 🚨  
 - **Culture:** 2 at risk, 1 delayed.  
 - **Energy:** 2 at risk.  
 - **Health:** Mixed — 1 on track, 1 at risk.  
 - **Utilities:** 1 delayed.  
-➡️ *ICT and Energy sectors require urgent intervention.*
+   *ICT and Energy sectors require urgent intervention.*
 
-### 🔹 Regional Progress
+###  Regional Progress
 | Region | Average Progress |
 |---------|------------------|
 | Tabuk | **55%** |
@@ -86,21 +86,21 @@ Regions such as **Tabuk and NEOM** are top performers, while **Makkah and Medina
 
 ---
 
-## 💰 Financial Performance Insights
+##  Financial Performance Insights
 - **Actual spend:** 99.15% of planned — nearly on target.
 - **YTD actual spend:** SAR **1,013M** (5.93% of total budget).
 - **Variance:** -0.85% — slightly under budget, acceptable if timelines remain intact.
 - **Budget Allocation by Pillar:**
-  - 🏗️ Thriving Economy — **74.09%**
-  - 🕌 Vibrant Society — **25.91%**
+  -  Thriving Economy — **74.09%**
+  -  Vibrant Society — **25.91%**
 
 ---
 
-## ⚠️ Risk Analysis
+##  Risk Analysis
 - **High Risk Areas:** Supply Chain, Schedule, Right of Way, Permitting  
 - **Medium Risks:** Utilities, Finance, Environmental, Cooling Systems  
 - **Low Risks:** Safety, Vendor, Scope  
-➡️ *Immediate focus should be on mitigating high-likelihood, high-impact risks.*
+   *Immediate focus should be on mitigating high-likelihood, high-impact risks.*
 
 
 ## Image Preview
@@ -122,15 +122,17 @@ Regions such as **Tabuk and NEOM** are top performers, while **Makkah and Medina
 
 - **Risk analysis overview**
 
--![Dashboard View](
+-![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/risk%20analysis%20overview.png)
 
 
-## 🧠 Recommendations
-1. **Prioritize high-risk projects** for immediate review and corrective action.  
-2. **Reallocate underused budgets** to faster-moving initiatives.  
-3. **Enforce stricter schedule monitoring** to reduce project delays.  
-4. **Empower agencies** through training and process optimization.  
-5. **Maintain real-time data updates** in Tableau for continuous governance visibility.
+##  Recommendations
+Based on the analysis and insights from the dashboard, the following recommendations are proposed:
+1. **Prioritize projects with high risk impact and likelihood for immediate intervention**
+2. **Optimize budget allocation by redirecting funds from underutilized sectors to high-performing initiatives**
+3. **Implement stricter monitoring of delayed projects to improve the on-time completion rate**
+4. **Enhance agency performance through targeted training and process improvements**
+5. **Maintain regular updates to the dashboard to ensure decisions are based on the latest data**
+
 
 ---
 
@@ -141,15 +143,10 @@ Regions such as **Tabuk and NEOM** are top performers, while **Makkah and Medina
 | **Power Query (Excel/Power BI)** | Data cleaning and transformation |
 | **Microsoft Excel** | Data review and structure setup |
 
----
 
-## 🌐 Dashboard Preview
-*(Add a screenshot or Tableau Public link here)*  
-🔗 [View Interactive Dashboard on Tableau Public](#)
 
----
 
-## 📢 Impact
+##  Impact
 This project demonstrates how **data analytics and visualization** can support Saudi Arabia’s Vision 2030 by improving:
 - Project transparency  
 - Financial accountability  
