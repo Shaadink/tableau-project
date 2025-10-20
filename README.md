@@ -113,7 +113,7 @@ Regions such as **Tabuk and NEOM** are top performers, while **Makkah and Medina
 - **project portfolio**
 
   
--![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/project%20portfolio%20overview)
+-![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/project%20portfolio%20overview.png)
 
 ## 🧠 Recommendations
 1. **Prioritize high-risk projects** for immediate review and corrective action.  
