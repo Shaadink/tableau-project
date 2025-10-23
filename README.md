@@ -1,6 +1,7 @@
 #  Saudi Vision 2030 Project Analysis | Tableau Dashboard
 
--![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/cover%20photo.png)
+-|[Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/saudivision-1.png)
+
 [!Dashboard video](https://github.com/Shaadink/tableau-project/blob/main/saudi%20vision%202030%20dashboard.mp4)
 
 [!Dashboard linkedln video](https://www.linkedin.com/feed/update/urn:li:activity:7364635120718241792/)
@@ -56,7 +57,27 @@ Before Tableau visualization, a **comprehensive ETL process** was performed usin
    - **Budget Utilization**
    - **Risk Rating**
 
----
+## Dashboard image
+
+- **cover photo**
+- 
+--![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/cover%20photo.png)
+
+- **project portfolio**
+
+-![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/project%20portfolio%20overview.png)
+
+
+- **cover page**
+ 
+-![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/financial%20overview.png)
+
+
+- **Risk analysis overview**
+
+-![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/risk%20analysis%20overview.png)
+
+
 
 ##  Key Insights
 
@@ -106,25 +127,6 @@ Regions such as **Tabuk and NEOM** are top performers, while **Makkah and Medina
 - **Low Risks:** Safety, Vendor, Scope  
    *Immediate focus should be on mitigating high-likelihood, high-impact risks.*
 
-
-## Image Preview
-
-
-
-
-- **project portfolio**
-
--![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/project%20portfolio%20overview.png)
-
-
-- **cover page**
- 
--![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/financial%20overview.png)
-
-
-- **Risk analysis overview**
-
--![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/risk%20analysis%20overview.png)
 
 
 ##  Recommendations
