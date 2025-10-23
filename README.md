@@ -1,6 +1,6 @@
 #  Saudi Vision 2030 Project Analysis | Tableau Dashboard
 
--|[Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/saudivision-1.png)
+-![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/saudivision-1.png)
 
 [!Dashboard video](https://github.com/Shaadink/tableau-project/blob/main/saudi%20vision%202030%20dashboard.mp4)
 
