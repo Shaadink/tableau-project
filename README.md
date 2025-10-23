@@ -2,9 +2,9 @@
 
 ![Dashboard View](https://github.com/Shaadink/tableau-project/blob/main/saudivision-1.png)
 
-[!Dashboard video](https://github.com/Shaadink/tableau-project/blob/main/saudi%20vision%202030%20dashboard.mp4)
-
 [!Dashboard linkedln video](https://www.linkedin.com/feed/update/urn:li:activity:7364635120718241792/)
+
+[!Dashboard video](https://github.com/Shaadink/tableau-project/blob/main/saudi%20vision%202030%20dashboard.mp4)
 
 
 ##  Project Overview
